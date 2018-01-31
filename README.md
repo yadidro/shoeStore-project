@@ -1,1 +1,1 @@
-# shoeStore-project
+# ShoeStore-project
